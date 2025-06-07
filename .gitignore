@@ -1,0 +1,13 @@
+
+# Maven target directory
+/target/
+
+# Maven build logs
+/logs/
+*.log
+
+# Maven wrapper files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
